@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --transformIgnorePatterns \"node_modules/(?!@toolz/allow)/\" --env=jsdom",
+    "test": "jest",
     "lint": "eslint ."
   },
   "keywords": [],
