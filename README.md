@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g800q7w1pjof2g64?svg=true)](https://ci.appveyor.com/project/arbprog/ajs-game-character-mage)
